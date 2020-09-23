@@ -1,7 +1,29 @@
-.someClass {
-
+.wrapper {
+    background-color: #899ad3;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
 }
-
+.wrapper input {
+    width: 300px;
+    border-radius: 10px;
+    height: 30px;
+}
+.wrapper button {
+    padding: 10px;
+    background-color: #0acd82;
+}
 .error {
     border: 1px solid red;
+}
+.errorMessage {
+    margin: 10px;
+    color: red;
+}
+.normal {
+    border: goldenrod solid 2px;
+}
+.total {
+    font-size: 32px;
+    color: white;
 }
