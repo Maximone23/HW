@@ -41,7 +41,6 @@ function HW1() {
                 message={messageData.message}
                 time={messageData.time}
                 rank={messageData.rank}/>
-            <hr/>
         </div>
     );
 }
